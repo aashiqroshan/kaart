@@ -4,7 +4,7 @@ import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:meta/meta.dart';
 import 'package:http/http.dart' as http;
-import 'package:the_kaart/services/services.dart';
+import 'package:the_kaart/domain/services/services.dart';
 
 part 'kaart_event.dart';
 part 'kaart_state.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import 'package:the_kaart/pages/edit_product_page.dart';
+import 'package:the_kaart/presentation/pages/edit_product_page.dart';
 
 class ProductPage extends StatelessWidget {
   const ProductPage({super.key, required this.product});

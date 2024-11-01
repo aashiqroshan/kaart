@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:the_kaart/bloc/kaart_bloc.dart';
-import 'package:the_kaart/components/product_grid.dart';
-import 'package:the_kaart/services/services.dart';
+import 'package:the_kaart/presentation/bloc/kaart_bloc.dart';
+import 'package:the_kaart/presentation/components/product_grid.dart';
+import 'package:the_kaart/domain/services/services.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

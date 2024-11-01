@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:the_kaart/bloc/kaart_bloc.dart';
+import 'package:the_kaart/presentation/bloc/kaart_bloc.dart';
 
 class EditProductPage extends StatefulWidget {
   EditProductPage({super.key, required this.product});

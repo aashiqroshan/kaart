@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:the_kaart/pages/product_page.dart';
+import 'package:the_kaart/presentation/pages/product_page.dart';
 
 class ProductGrid extends StatelessWidget {
   ProductGrid({required this.product, super.key});
